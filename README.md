@@ -1,4 +1,4 @@
-### Oi, eu sou o Lucas Sabatini, desenvolvedor back-end.
+### Olá, eu sou o Lucas Sabatini, desenvolvedor back-end.
 ### Seja bem-vindo! ☕
 ##
 <div>
