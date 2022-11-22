@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Sabatini, desenvolvedor back-end | Java.
+### Olá, eu sou o Lucas Sabatini, desenvolvedor Java.
 ### Seja bem-vindo! ☕
 ##
 <div>
